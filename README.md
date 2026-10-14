@@ -8,8 +8,7 @@ The Password Strength Evaluator is a command-line tool built with Python. It che
 
 The program hides password input while typing and does not save or send passwords anywhere.
 
-**Features
-**
+**Features**
 Password scoring: Assigns a score from 0 to 100.
 
 Strength rating: Categorizes passwords as Very Weak, Weak, Okay, Strong or Very Strong.
